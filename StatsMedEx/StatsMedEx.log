@@ -1,0 +1,41 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.1)  1 JUL 2020 13:20
+entering extended mode
+**./StatsMedEx.tex
+(StatsMedEx.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> (WileyNJD-v2.cls
+Document Class: WileyNJD-v2 2017/06/23 v0.2 Standard LaTeX document class for J
+ournal
+\job@temptoken=\toks15
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fleqn.clo"
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen134
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+
+! Sorry, but C:\PROGRA~1\MIKTEX~1.9\miktex\bin\x64\pdflatex.exe did not succeed.
+
+! The log file hopefully contains the information to get MiKTeX going again:
+
+!   C:\Users\USER\AppData\Local\MiKTeX\2.9\miktex\log\pdflatex.log
